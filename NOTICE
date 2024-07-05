@@ -1,0 +1,6 @@
+obstack
+Copyright (c) 2024 OceanBase.
+
+This product includes or depends on software from the binutils package (https://www.gnu.org/software/binutils/), which is developed by the Free Software Foundation, licensed under the GNU General Public License version 3 or later.
+
+See also https://www.gnu.org/licenses/gpl-3.0.html for the terms of the GNU General Public License version 3.

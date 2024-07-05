@@ -1,0 +1,12 @@
+[target-default]
+os=7
+arch=x86_64
+repo=http://mirrors.aliyun.com/oceanbase/development-kit/el/7/x86_64/
+
+[deps]
+devdeps-elfutils-libelf-1.0.2-32024070513.el7.x86_64.rpm
+obdevtools-binutils-2.30-52024070513.el7.x86_64.rpm
+obdevtools-gcc9-9.3.0-52022092914.el7.x86_64.rpm
+obdevtools-cmake-3.22.1-22022100417.el7.x86_64.rpm
+obdevtools-llvm-11.0.1-312022092921.el7.x86_64.rpm
+devdeps-libunwind-static-1.6.2-222022100410.el7.x86_64.rpm

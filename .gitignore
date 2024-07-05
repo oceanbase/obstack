@@ -1,0 +1,5 @@
+build_release/
+build_debug/
+deps/pkg/
+deps/usr/
+rpm/*.rpm
